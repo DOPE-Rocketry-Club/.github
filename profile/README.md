@@ -1,17 +1,26 @@
-# D.O.P.E. Rocketry Club - Unige
+# DOPE Aerospace
 
-Ciao a tutti! 
-Siamo un gruppo di studenti dell'Università degli Studi di Genova che ha deciso di lanciarsi in un'impresa molto ambiziosa: Creare un gruppo studentesco di razzi chiamato DOPE Rocketry Club!
-Il nostro obiettivo è quello di applicare la teoria imparata a lezione, divertendoci e allo stesso tempo migliorando le nostre competenze.
-Le prime attività inizieranno a partire da marzo e siamo veramente entusiasti di iniziare questa avventura insieme.
+Welcome to the official GitHub organization for DOPE Aerospace, a vibrant and dynamic student-led initiative at the forefront of propelling aerospace progress. Founded in 2023, our mission is deeply rooted in democratizing aerospace technologies. We strive to enhance accessibility, flexibility, and reliability in the field, paving the way for an exciting new era in aerospace development.
 
-<!--
+## Our Mission
+- **Democratizing Aerospace**: Making cutting-edge aerospace technologies more accessible.
+- **Innovation & Flexibility**: Encouraging innovative approaches and flexible solutions in aerospace technology.
+- **Reliability**: Ensuring our developments are reliable and set high standards in the industry.
 
-**Here are some ideas to get you started:**
+## Core Technologies
+We primarily focus on utilizing **C++** and **Python** for our development projects. These powerful languages enable us to create efficient, scalable, and robust aerospace solutions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Connect with Us
+- **LinkedIn**: Stay updated and connect with us on [LinkedIn](https://www.linkedin.com/company/dope-aerospace-unige/) for the latest news, events, and opportunities in DOPE Aerospace.
+- **GitHub Repositories**: Dive into our repositories and explore the innovative work we're doing. Contributions, suggestions, and discussions are always welcome!
+
+## Our Achievements & Stats
+- **Founded**: 2023
+- **Projects**: D.I.S.C.O: Our first iteration of a flight computer.
+- **Members**: We are all UniGe students.
+
+Together, let's shape the future of aerospace technology and make it more open, innovative, and reliable.
+
+---
+
+*DOPE Aerospace is an independent student-led organization and is not affiliated with any commercial aerospace entities.*
